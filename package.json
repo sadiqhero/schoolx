@@ -1,0 +1,24 @@
+{
+  "name": "easydesktop",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron-rebuild": "^3.2.9"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.1.2",
+    "chart.js": "^4.4.8",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "mongodb": "^6.13.0",
+    "realm": "^20.1.0",
+    "sqlite3": "^5.1.7",
+    "watcher": "^2.3.1"
+  }
+}
